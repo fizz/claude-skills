@@ -45,7 +45,7 @@ Every skill starts from the same question: what does the protagonist need to kno
 
 ## More skills coming
 
-I'm releasing one skill per day from my production library. Follow along or check back.
+More skills coming.
 
 ## License
 
