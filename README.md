@@ -27,6 +27,8 @@ Eight steps: git state → handoffs → work items → PRs → workflow hygiene 
 
 The skill that prevents "loaded wrong plan," "wrong branch," and "missed overnight activity" errors.
 
+[Blog post: "Every AI session starts from zero. Mine doesn't."](https://ferkakta.dev/blog/session-start-skill/)
+
 ## Tool-agnostic by design
 
 The skills describe *what to check and why*, not which binary to use. My setup uses CLI tools (`slackcli`, `jira`, `kubectl`) but yours might use MCP servers for Slack, Atlassian, or Google Calendar. The methodology is the same — the skill tells your agent which channels to scan, which Jira queries to run, and how to prioritize the results. How it reaches the API is your problem.
