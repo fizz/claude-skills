@@ -53,7 +53,7 @@ Every skill starts from the same question: what does the protagonist need to kno
 
 ## More skills coming
 
-More skills coming.
+More skills coming. Fork the repo and send PRs — I want to see how other people encode their workflows.
 
 ## License
 
