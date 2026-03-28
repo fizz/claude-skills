@@ -47,7 +47,7 @@ Then reference it in your Claude Code configuration or invoke it with `/morning-
 
 ## Design philosophy
 
-These skills follow a pattern I call Ferkakt Protagonist Support — building systems that serve the person doing the work instead of the system doing the tracking. A Jira board is a database. A morning paper is a briefing. The same data, shaped for a different reader.
+These skills follow a pattern I call Ferkakta Protagonist Support — building systems that serve the person doing the work instead of the system doing the tracking. A Jira board is a database. A morning paper is a briefing. The same data, shaped for a different reader.
 
 Every skill starts from the same question: what does the protagonist need to know right now, in what order, at what depth?
 
